@@ -1,0 +1,6 @@
+Errors
+
+1. Not able to detect the AgoraSDK js file and showing error of AgoraRTM module not defined
+
+Tried: imported external js file of AgoraSDK in HTML in script tag but not detected when called from main js
+Solve: 
