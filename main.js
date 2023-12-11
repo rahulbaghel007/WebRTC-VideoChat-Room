@@ -201,5 +201,4 @@ window.addEventListener('beforeunload', leaveChannel)
 document.getElementById('camera-btn').addEventListener('click', toggleCamera)
 document.getElementById('mic-btn').addEventListener('click', toggleMic)
 
-
 init()
