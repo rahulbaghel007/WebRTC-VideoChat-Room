@@ -1,4 +1,4 @@
-Here, you can understand the project and let you run it locally
+Here, you can understand the working and how to run this project locally. 
 # PeerVC Video Chat Application
 
 PeerVC is a WebRTC-based video chat app that establishes direct peer-to-peer video calls between users.
@@ -39,27 +39,27 @@ Prerequisites:
 
 Good command on HTML, CSS and JavaScript.
 
+ Clone repo
 ```
-# Clone repo
-git clone https://github.com/rahulbaghel007/WebRTC-VideoChat-Room.git
+  git clone https://github.com/rahulbaghel007/WebRTC-VideoChat-Room.git
 
-#Create account over Agora : 
-  Officail Website-->https://www.agora.io/en/
-  Documentaion --> https://docs.agora.io/en/video-calling/get-started/get-started-sdk?platform=web
-
-#Create the Project over Agora
- Create a project over Agora with appropiate name and generate the APP_ID which will be used in the project for establshing the Pear-Communication.
-
-# Download Signaling SDK for Web to use all the pre-define functionlity of Agora RTM
-    Link -> https://docs.agora.io/en/sdks?platform=web
-
-#Extention for Auto Running server file 
-    
-    Whenever there is change the codebase and as you save, the automatically the server reload and will show all the changes you made on the webpage.
-
-# App runs on port 5500
-http://localhost:5500  
 ```
+
+ Create account over Agora : 
+  - Officail Website--> https://www.agora.io/en/
+  - Documentaion --> https://docs.agora.io/en/video-calling/get-started/get-started-sdk?platform=web
+
+ Create the Project over Agora
+  - Create a project over Agora with appropiate name and generate the APP_ID which will be used in the project for establshing the Pear-Communication.
+
+ Download Signaling SDK for Web to use all the pre-define functionlity of Agora RTM
+  - https://docs.agora.io/en/sdks?platform=web
+
+ Extention for Auto Running server file 
+  - Whenever there is change the codebase and as you save, the automatically the server reload and will show all the changes you made on the webpage.
+
+ App runs on port 5500
+  - http://localhost:5500 
 
 The signaling server runs independently via Agora. Developers can signup for free trial keys.  
 
